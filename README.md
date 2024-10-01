@@ -1,12 +1,13 @@
 # Group 6
 
 # Members
-22BI13264 - Nguyễn Thành Long
-22BI13317 - Vũ Tuấn Minh
-22BI13301 - Nguyễn Quang Minh
-22BI13307 - Phan Nguyễn Tuấn Minh
-22BI13259 - Hoàng Long
-22BI13318 - Nguyễn Hà My
+
+22BI13264 - Nguyễn Thành Long <br>
+22BI13317 - Vũ Tuấn Minh <br>
+22BI13301 - Nguyễn Quang Minh <br>
+22BI13307 - Phan Nguyễn Tuấn Minh <br>
+22BI13259 - Hoàng Long <br>
+22BI13318 - Nguyễn Hà My <br>
 
 # Study of the Transformer based GAN for image super-resolution
 
